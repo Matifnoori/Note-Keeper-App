@@ -1,6 +1,4 @@
-# note_keeper
-
-A new Flutter application.
+# Note Keeper App
 
 ## Getting Started
 
